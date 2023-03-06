@@ -31,7 +31,7 @@ rm wasm_nolus-rila.tar
 ```
 mv $HOME/priv_validator_state.json $HOME/.nolus/data/priv_validator_state.json
 ```
-
+ 
 <b>Start service and check the logs</b>
 
 ```
